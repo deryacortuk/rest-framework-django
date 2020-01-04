@@ -60,6 +60,7 @@ There are  over 40 different server status codes. However, there are really fewe
 ## Django REST Framework
 
 [Django REST framework](https://www.django-rest-framework.org/)  is a open source, mature and well supported Python/Django library that aims at building sophisticated web APIs. It is flexible and fully-featured toolkit with modular and customizable architecture that makes possible development of both simple, turn-key API endpoints and complicated REST constructs.
+
 Main advantages of Django REST framework:
 
 -   Simplicity, flexibility, quality, and test coverage of source code.
